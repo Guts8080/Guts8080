@@ -1,16 +1,36 @@
-## Hi there 👋
+Im G, a student in Germany.
 
-<!--
-**Guts8080/Guts8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Lerning python, html, php and C++ and networking.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Tools&etc.</h2>
+<li>
+  <lu>
+    Programming languages(entry-level):  Python, html, php, C++
+  </lu>
+</li>
+<li>
+  <lu>
+    Networking: Cisco, etc.
+  </lu>
+</li>
+<li>
+  <lu>
+    Linux: Arch Linux, etc.
+  </lu>
+</li>
+<h2>About me</h2>
+<li>
+  <lu>
+    Love cats
+  </lu>
+</li>
+<li>
+  <lu>
+    Gaming
+  </lu>
+</li>
+<li>
+  <lu>
+    Into Anime
+  </lu>
+</li>
