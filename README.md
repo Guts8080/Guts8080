@@ -2,22 +2,22 @@
 
 Im G, a student in Germany.
 
-Im Lerning python, html, php and C++ and networking.
+Lerning Coding and networking.
 
 <h2>Tools&etc.</h2>
 <li>
   <lu>
-    Programming languages(entry-level):  Python, html, php, C++
+    Programming languages:  Python, html, php, C++
   </lu>
 </li>
 <li>
   <lu>
-    Networking: Cisco, etc.
+    Networking: Basic.
   </lu>
 </li>
 <li>
   <lu>
-    Linux: Arch Linux, etc.
+    Linux: Basic.
   </lu>
 </li>
 <h2>About me</h2>
@@ -33,6 +33,6 @@ Im Lerning python, html, php and C++ and networking.
 </li>
 <li>
   <lu>
-    Into Anime
+    Into Anime like Dragon Ball
   </lu>
 </li>
